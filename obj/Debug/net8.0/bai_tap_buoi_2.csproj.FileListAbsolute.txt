@@ -12,3 +12,4 @@ D:\dotnet01\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\net8.0\refint\bai_tap_buoi_2
 D:\dotnet01\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\net8.0\bai_tap_buoi_2.pdb
 D:\dotnet01\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\net8.0\bai_tap_buoi_2.genruntimeconfig.cache
 D:\dotnet01\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\net8.0\ref\bai_tap_buoi_2.dll
+D:\dotnet01\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\net8.0\bai_tap_buoi_2.sourcelink.json
